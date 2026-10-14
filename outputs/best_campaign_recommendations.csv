@@ -1,0 +1,6 @@
+cluster_id,segment_name,persona_name,campaign_id,campaign_name,response_score,response_likelihood,segment_size,segment_percentage,risk_level,top_preferred_category,avg_monetary,avg_frequency,avg_recency,churn_rate,avg_return_rate,scoring_reasons
+4,Highly Engaged Users,Digital Window Shoppers,5,Discount-Led Bundle Offer,70.5,Medium,1103,13.79,Low,Electronics,1143.06,13.82,59.9,0.0852,0.0323,Target category matches the persona profile
+5,Risky Returners,High-Risk Return Shoppers,3,Wishlist Reminder Discount,49.7,Low,322,4.03,High,Electronics,229.11,2.46,59.19,0.1925,0.4038,Target category matches the persona profile
+2,Low Value Customers,Occasional Deal Seekers,3,Wishlist Reminder Discount,60.1,Medium,3007,37.59,Medium,Electronics,369.34,7.37,61.02,0.1114,0.0156,Target category matches the persona profile
+1,VIP Champions,Premium Loyal Buyers,1,Premium Electronics Push,68.8,Medium,935,11.69,Low,Electronics,4861.2,45.49,53.09,0.0759,0.0059,Target category matches the persona profile
+3,Loyal Customers,Reliable Repeat Buyers,3,Wishlist Reminder Discount,60.0,Medium,2633,32.91,Low,Electronics,2080.79,19.61,60.17,0.0581,0.0119,Target category matches the persona profile
