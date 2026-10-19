@@ -72,16 +72,19 @@ The five K-Means segments are retained for business interpretability. The reposi
 ## Setup
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd AI-Marketing-Campaign-Simulator
+git clone https://github.com/suleaydn6/AI-Powered-Marketing-Analytics.git
+cd AI-Powered-Marketing-Analytics
 
 python -m venv .venv
-# Windows
-.venv\Scripts\activate
+
+# Windows PowerShell
+.\.venv\Scripts\Activate.ps1
+
 # macOS/Linux
 source .venv/bin/activate
 
 pip install -r requirements.txt
+
 ```
 
 ## Run the pipeline
